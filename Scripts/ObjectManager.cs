@@ -1,0 +1,13 @@
+﻿namespace DefaultNamespace
+{
+    /// <summary>
+    ///THIS CLASS IS GOING TO HAVE FUNCTIONS IN IT THAT ORGANIZE EVERY SINGLE KIND OF OBJEC TIN THIS GAME INTO ITS OWN LIST
+    /// THE PURPOSE OF THIS IS ORGANIZATION AND I HAVE FOUND THAT I WILL NEED TO USE THESE LISTS A LOT. SINCE THEY ARE NOT GOING TO BE
+    /// VERY LONG, IT WILL NOT AFFECT RUNTIME.
+    /// </summary>
+    
+    public class ObjectManager
+    {
+        
+    }
+}
