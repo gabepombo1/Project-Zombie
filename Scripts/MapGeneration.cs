@@ -274,7 +274,6 @@ public class MapGeneration
 
     }
 
-    //hwo do i mkae a function that just does something and doesnt return anythign?
     public bool CheckNewTile()
     {
 
